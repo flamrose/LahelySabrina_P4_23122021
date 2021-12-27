@@ -98,10 +98,10 @@ a:hover {
 .b-parallax {
     background-attachment: fixed;
 }
-
+/*modifications pour accessibilité*/
 .d-bloc {
-    color: black;
-    font-weight: 700;
+    color: black;/*et non white*/
+    font-weight: 700;/*ajout*/
 }
 
 .d-bloc button:hover {
