@@ -100,7 +100,8 @@ a:hover {
 }
 
 .d-bloc {
-    color: white;
+    color: black;
+    font-weight: 700;
 }
 
 .d-bloc button:hover {
