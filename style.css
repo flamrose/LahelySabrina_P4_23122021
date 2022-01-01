@@ -866,7 +866,7 @@ h4 {
         position: relative;
     }
     /*.bloc {
-        padding-left: constant(safe-area-inset-left);
+        padding-left: constant(safe-area-inset-left); err W3C
         padding-right: constant(safe-area-inset-right);
     }*/
     .bloc-group,
